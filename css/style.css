@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background-color: black;
+}
+
+.avg {
+  max-width: 500px;
+}
+
+.extreme {
+  max-height: 300px;
+}
+
+.middle {
+  max-height: 400px;
+}
+
+.center {
+  max-height: 500px;
+}
+
+img {
+  padding: 20px;
+}
+
+.extreme:hover {
+  transform: scale(1.2);
+}
+
+.middle:hover {
+  transform: scale(1.2);
+}
+
+.center:hover {
+  transform: scale(1.2);
+}

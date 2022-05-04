@@ -1,0 +1,28 @@
+body{
+  text-align: center;
+   background-color: black;
+   color: white;
+}
+table{
+  text-align: center;
+
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  word-spacing: 0.2em;
+  line-height: 1.5em;
+}
+
+.spiderWeb{
+  max-width: 1300px;
+  position: fixed;
+}
+
+.spider-man-hanging{
+max-width: 1px;
+}
+
+.topText{
+  text-align: left;
+  max-width: 500px;
+}
